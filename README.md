@@ -37,7 +37,7 @@ Ver el detalle completo en [`docs/funcionalidades.md`](docs/funcionalidades.md).
 |---|---|
 | ![Home](capturas/home.png) | ![Home - categorías](capturas/home-categorias.png) |
 | Página de inicio | Categorías destacadas |
-| ![Home - preguntas frecuentes](capturas/home-faq.png) | ![Home - reseñas](capturas/resenas.png) |
+| ![Home - preguntas frecuentes](capturas/home-faq.png) | ![Home - reseñas](capturas/home-resenas.png) |
 | Preguntas frecuentes | Reseñas de clientes |
 | ![Carrito](capturas/carrito.png) | ![Checkout](capturas/checkout.png) |
 | Carrito de compras | Checkout en dos columnas |
