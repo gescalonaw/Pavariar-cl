@@ -46,3 +46,9 @@ Ver el detalle completo en [`docs/funcionalidades.md`](docs/funcionalidades.md).
 
 - 🔗 **Sitio en producción:** [pavariar.cl](https://pavariar.cl)
 - 📄 **Detalle técnico completo:** [docs/funcionalidades.md](docs/funcionalidades.md)
+
+### Desarrollado por
+
+**Gabriela Escalona** — [LinkedIn](https://linkedin.com/in/gabriela-escalona-weldt-b32855243) · [Portafolio](https://github.com/gescalonaw)
+
+**Miko Peñailillo** — [LinkedIn](https://www.linkedin.com/in/mirko-peñailillo-vásquez-70094339b) · [Portafolio](https://github.com/MirkoVP)
