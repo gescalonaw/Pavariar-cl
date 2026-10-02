@@ -29,16 +29,18 @@ Un e-commerce completo construido sobre un tema hijo de WordPress hecho a medida
 
 Ver el detalle completo en [`docs/funcionalidades.md`](docs/funcionalidades.md).
 
+> La tienda se administra y gestiona con **[POS-multisede](https://github.com/gescalonaw/POS-multisede)**, un plugin de inventario y punto de venta que también desarrollé, documentado como proyecto aparte.
+
 ## Capturas
 
 | | |
 |---|---|
 | ![Home](capturas/home.png) | ![Home - categorías](capturas/home-categorias.png) |
 | Página de inicio | Categorías destacadas |
-| ![Home - preguntas frecuentes](capturas/home-faq.png) | ![Carrito](capturas/carrito.png) |
-| Preguntas frecuentes | Carrito de compras |
-| ![Checkout](capturas/checkout.png) | |
-| Checkout en dos columnas | |
+| ![Home - preguntas frecuentes](capturas/home-faq.png) | ![Home - reseñas](capturas/resenas.png) |
+| Preguntas frecuentes | Reseñas de clientes |
+| ![Carrito](capturas/carrito.png) | ![Checkout](capturas/checkout.png) |
+| Carrito de compras | Checkout en dos columnas |
 
 ## Enlaces
 
